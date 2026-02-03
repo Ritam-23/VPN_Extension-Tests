@@ -50,10 +50,7 @@ This tool acts as a "watchdog" for your local machine while the VPN is running. 
 ## 🛠️ Installation
 
 1.  **Clone this repository** (or download the scripts):
-    ```bash
-    git clone [https://github.com/yourusername/vpn-forensics.git](https://github.com/yourusername/vpn-forensics.git)
-    cd vpn-forensics
-    ```
+    
 
 2.  **Install required Python libraries:**
     ```bash
